@@ -37,4 +37,4 @@ Each folder contains the Python source code (`.py` files), any necessary resourc
 To use this repository:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ChandimaBandara815/Python-Exercise
